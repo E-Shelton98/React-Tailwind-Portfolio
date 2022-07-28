@@ -23,7 +23,7 @@ const Hero = () => {
           data-aos-once='true'
           className='text-5xl md:text-6xl lg:text-7xl font-bold text-slate-200 py-2'
         >
-          Gore Sometimes.
+          Erik Shelton.
         </h1>
         <h2
           data-aos='fade-up'
